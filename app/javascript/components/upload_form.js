@@ -6,7 +6,7 @@ export function UploadForm() {
 
   const changeHandler = (event) => {
     setSelectedFile(event.target.files[0]);
-    setIsSelected(true);
+    setIsFilePicked(true);
   };
 
   const handleSubmission = () => {
@@ -14,7 +14,7 @@ export function UploadForm() {
 
     formData.append("upload_file", selectedFile);
 
-    fetch("/people", {
+    fetch("/people/upload", {
       method: "POST",
       body: formData,
     })

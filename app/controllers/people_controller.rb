@@ -1,4 +1,5 @@
 class PeopleController < ApplicationController
+  skip_before_action :verify_authenticity_token
   def index
     if order_field.nil?
       render json: Person.all

@@ -3310,3 +3310,66 @@ Info 2928 [14:29:45.327] Finishing updateGraphWorker: Project: /dev/null/inferre
 Info 2929 [14:29:45.327] Different program with same set of files:: structureIsReused:: 2
 Info 2930 [14:29:46.117] DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
 Info 2931 [14:29:46.117] Elapsed:: 0.07569500058889389ms DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2932 [14:33:40.277] DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2933 [14:33:40.277] Elapsed:: 0.11380000039935112ms DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2934 [14:33:40.483] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2935 [14:33:40.578] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 159 structureChanged: false Elapsed: 94.73143799975514ms
+Info 2936 [14:33:40.578] Different program with same set of files:: structureIsReused:: 2
+Info 2937 [14:33:40.580] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2938 [14:33:40.616] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 160 structureChanged: false Elapsed: 36.63059199973941ms
+Info 2939 [14:33:40.616] Different program with same set of files:: structureIsReused:: 2
+Info 2940 [14:33:40.926] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2941 [14:33:40.977] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 161 structureChanged: false Elapsed: 50.129803000018ms
+Info 2942 [14:33:40.977] Different program with same set of files:: structureIsReused:: 2
+Info 2943 [14:33:41.516] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2944 [14:33:41.567] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 162 structureChanged: false Elapsed: 49.980463000014424ms
+Info 2945 [14:33:41.567] Different program with same set of files:: structureIsReused:: 2
+Info 2946 [14:33:41.988] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2947 [14:33:42.038] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 163 structureChanged: false Elapsed: 49.58039700053632ms
+Info 2948 [14:33:42.038] Different program with same set of files:: structureIsReused:: 2
+Info 2949 [14:33:42.868] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2950 [14:33:42.896] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 164 structureChanged: false Elapsed: 27.600490000098944ms
+Info 2951 [14:33:42.896] Different program with same set of files:: structureIsReused:: 2
+Info 2952 [14:33:45.021] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2953 [14:33:45.070] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 165 structureChanged: false Elapsed: 48.80394600145519ms
+Info 2954 [14:33:45.070] Different program with same set of files:: structureIsReused:: 2
+Info 2955 [14:33:46.139] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2956 [14:33:46.168] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 166 structureChanged: false Elapsed: 28.788277000188828ms
+Info 2957 [14:33:46.168] Different program with same set of files:: structureIsReused:: 2
+Info 2958 [14:33:47.671] DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2959 [14:33:47.671] Elapsed:: 0.022151000797748566ms DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2960 [14:33:48.078] DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2961 [14:33:48.078] Elapsed:: 0.026639999821782112ms DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2962 [14:33:48.286] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2963 [14:33:48.314] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 167 structureChanged: false Elapsed: 28.109857000410557ms
+Info 2964 [14:33:48.314] Different program with same set of files:: structureIsReused:: 2
+Info 2965 [14:33:50.092] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2966 [14:33:50.141] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 168 structureChanged: false Elapsed: 48.48473099991679ms
+Info 2967 [14:33:50.141] Different program with same set of files:: structureIsReused:: 2
+Info 2968 [14:33:50.633] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2969 [14:33:50.681] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 169 structureChanged: false Elapsed: 47.758616000413895ms
+Info 2970 [14:33:50.681] Different program with same set of files:: structureIsReused:: 2
+Info 2971 [14:33:51.380] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2972 [14:33:51.427] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 170 structureChanged: false Elapsed: 46.16107399947941ms
+Info 2973 [14:33:51.427] Different program with same set of files:: structureIsReused:: 2
+Info 2974 [14:33:53.610] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2975 [14:33:53.668] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 171 structureChanged: false Elapsed: 58.2654729988426ms
+Info 2976 [14:33:53.668] Different program with same set of files:: structureIsReused:: 2
+Info 2977 [14:33:54.480] DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2978 [14:33:54.480] Elapsed:: 0.09808399900794029ms DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2979 [14:35:03.907] DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2980 [14:35:03.907] Elapsed:: 0.10529900155961514ms DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2981 [14:35:04.112] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2982 [14:35:04.194] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 172 structureChanged: false Elapsed: 81.04847799986601ms
+Info 2983 [14:35:04.194] Different program with same set of files:: structureIsReused:: 2
+Info 2984 [14:35:04.474] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2985 [14:35:04.523] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 173 structureChanged: false Elapsed: 48.51268899999559ms
+Info 2986 [14:35:04.523] Different program with same set of files:: structureIsReused:: 2
+Info 2987 [14:35:04.550] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2988 [14:35:04.659] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 174 structureChanged: false Elapsed: 109.29212800040841ms
+Info 2989 [14:35:04.659] Different program with same set of files:: structureIsReused:: 2
+Info 2990 [14:35:05.056] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 2991 [14:35:05.108] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 175 structureChanged: false Elapsed: 51.29839200153947ms
+Info 2992 [14:35:05.108] Different program with same set of files:: structureIsReused:: 2
+Info 2993 [14:35:05.731] DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
+Info 2994 [14:35:05.732] Elapsed:: 0.02710999920964241ms DirectoryWatcher:: Triggered with /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components/.#upload_form.js :: WatchInfo: /mnt/another-disk/cs_courses/rails-project/coding-tasks/app/javascript/components 0 undefined Project: /dev/null/inferredProject3* WatchType: Failed Lookup Locations
