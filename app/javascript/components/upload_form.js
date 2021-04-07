@@ -18,9 +18,8 @@ export function UploadForm() {
       method: "POST",
       body: formData,
     })
-      .then((response) => response.json())
-      .then((result) => {
-        console.log("Success:", result);
+      .then(() => {
+        window.location.reload(false);
       })
       .catch((error) => {
         console.error("Error:", error);

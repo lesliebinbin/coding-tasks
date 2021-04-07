@@ -1,11 +1,8 @@
 class PeopleController < ApplicationController
   skip_before_action :verify_authenticity_token
   def index
-    if order_field.empty?
-      render json: Person.all
-    else
-      render json: Person.order_by(order_field)
-    end
+    render json: { total_count: Person.count,
+                   data: Person.order_by_created_at.ransack(name_cont: params[:search]).result.page(params[:page]) }
   end
 
   def upload
@@ -19,10 +16,6 @@ class PeopleController < ApplicationController
   end
 
   private
-
-  def order_field
-    params.permit(:display_order)
-  end
 
   def upload_file_field
     params.require(:upload_file)
