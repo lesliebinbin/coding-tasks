@@ -11,8 +11,7 @@ import { UploadForm } from "components/upload_form";
 document.addEventListener("DOMContentLoaded", () => {
   ReactDOM.render(
     <>
-      <div>Here</div>
-      <People people={[]} />
+      <People />
       <UploadForm />
     </>,
     document.getElementById("root")

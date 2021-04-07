@@ -1,10 +1,10 @@
 class PeopleController < ApplicationController
   skip_before_action :verify_authenticity_token
   def index
-    if order_field.nil?
+    if order_field.empty?
       render json: Person.all
     else
-      render json: Person.order_by(order)
+      render json: Person.order_by(order_field)
     end
   end
 
